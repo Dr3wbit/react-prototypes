@@ -7,6 +7,5 @@ export default () => {
             <h1 className='text-center'>Axios Demo</h1>
             <MovieContainer />
         </div>
-
     )
 }
